@@ -7,4 +7,4 @@ while true do
 --nah
 end
 
---Credit to tabanopro1234 and SimpleSpy!
+--Credit to tabanopro1234 and SimpleSpy lol!
