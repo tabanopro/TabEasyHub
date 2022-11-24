@@ -1,3 +1,1 @@
-# TabEasyHub
-A simple exploiting hub made for new exploiters!
-Do not do anything to voilate the liciendece?
+A place with a bunch of script for small exploiters! You can use any of our scripts on YOUTUBE, or for your own self! More rules at licence.md
